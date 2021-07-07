@@ -34,3 +34,20 @@
 			</filter-mapping>
 	```
 [추가 후 코드 보러가기](markdown_list/web.xml_edit.md)
+
+---
+
+## 3. tomcat 8.0 Root 경로 설정
+<div>
+	<img src="https://kkt9102.github.io/img2/spring_legacy_java1.8/1.png" style="width:1000px;">
+	<br>
+	<p>1. 경로를 바꿀 tomcat의 설정을 열어 modules 탭을 클릭</p>
+	<br>
+	<img src="https://kkt9102.github.io/img2/spring_legacy_java1.8/2.png" style="width:800px;">
+	<br>
+	<p>2. 해당 프로젝트 선택 후 Edit을 통하여 Path 부분에 <span style="font-size:1.3rem; font-weight:bold;">/controller</span>에서 <span style="font-size:1.3rem; font-weight:bold;">controller</span>만 삭제 후 저장</p>
+</div>
+
+---
+
+## 4. 
