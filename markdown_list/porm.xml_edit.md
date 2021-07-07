@@ -17,7 +17,13 @@
 		// 수정 후
 			<java-version>1.8</java-version>
 		// 수정 후
-			<org.springframework-version>3.1.1.RELEASE</org.springframework-version>
+// 수정 전
+	//<org.springframework-version>3.1.1.RELEASE</org.springframework-version>
+// 수정 전
+		
+		// 수정 후
+			<org.springframework-version>4.3.13.RELEASE</org.springframework-version>
+		// 수정 후
 			<org.aspectj-version>1.6.10</org.aspectj-version>
 			<org.slf4j-version>1.6.6</org.slf4j-version>
 		</properties>

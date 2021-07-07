@@ -5,6 +5,8 @@
 	- 이번 프로젝트는 java 1.8을 이용한 프로젝트임.
 
 ## 1. porm.xml 수정
+	- Java 는 1.8버전으로 변겅
+	- Spring RELEASE는 4.1.13.버전으로 변경
 [코드 보러가기](markdown_list/porm.xml_edit.md)
 
 ---
@@ -50,4 +52,4 @@
 
 ---
 
-## 4. 
+## 4. ArticleController.java 추가
